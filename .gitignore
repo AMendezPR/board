@@ -1,0 +1,7 @@
+# claves de Supabase (no subir nunca)
+config/.env
+
+# archivos del sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
